@@ -1,0 +1,72 @@
+green {
+    color: green;
+}
+
+red {
+    color: red;
+}
+
+purple {
+    color: purple;
+}
+
+main-container {
+    display: flex;
+    grid-area: content;
+    height: 100%;
+    flex-direction: column;
+}
+
+info-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 10px;
+}
+
+figure {
+    text-align: center;
+}
+
+#dummyimg {
+    max-width: 100px;
+    height: auto;
+}
+ 
+button {
+    font-size: 8px;
+    background-color: #FAE6F9;
+}
+
+blog-post {
+    background-color: white;
+    padding: 10px;
+    font-size: 12px;
+    font-family: 'Lora', serif;
+}
+
+about {
+    background-color: rgb(240, 238, 238);
+    padding: 10px;
+    font-size: 12px;
+}
+
+archives {
+    background-color: white;
+    font-size: 12px;
+}
+
+followus {
+    background-color: white;
+    padding: 10px;
+    font-size: 12px;
+}
+
+/*
+@media (min-width: 1100px) {
+    main-container {
+        width: 80%;
+        justify-content: center;
+        align-items: center;
+    }
+}
+*/
