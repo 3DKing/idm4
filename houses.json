@@ -39,12 +39,12 @@
         "price": 400500,
         "photo": "164558"
     },
-    {
+	{
         "id": 6,
-        "address": "Limhamnsgardens alle, Limhamn",
+        "address": "Limhamngardens alle, Limhamn",
         "country": "Sweden",
         "description": "This luxurious three bedroom flat is contemporary in style and benefits from the use of a gymnasium and a reserved underground parking space.",
-        "price": 1500500,
-        "photo": "164557"
+        "price": 1500000,
+        "photo": "259600"
     }
 ]
